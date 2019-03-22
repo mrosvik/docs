@@ -13,8 +13,8 @@ benyttes for kommunikasjon mellom Altinn og eksterne systemer.
 
 Dokumentasjon for:
 
-- [Tjenesteiere](../../sluttbrukere/)
-- [Sluttbrukere](../../tjenesteeiere/)
+- [Tjenesteiere](../../tjenesteeiere/)
+- [Sluttbrukere](../../sluttbrukere/)
 
 ## Målgruppe for denne dokumentasjonen
 
